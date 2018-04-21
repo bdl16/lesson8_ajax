@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Benjamin Landerman
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To create a web application in which displays movie information about whatever movie the user searches.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bdl16.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to link my API key to my javascript file.
+2. I learned how to use specific id tags to obtain information from the TMDB API server.
+3. I learned about the $.ajax() method and how it is used to perform asynchronous HTTP requests.
